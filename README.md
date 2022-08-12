@@ -1,1 +1,3 @@
-# Company-Analysis
+# Company Analysis
+
+SEO and SEM of the company Chanel, including further analysis such as trends, competitors comparison, ...
